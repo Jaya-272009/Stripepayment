@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stripepayment/static/css/main.d1b05096.chunk.css",
+    "main.js": "/stripepayment/static/js/main.814a4253.chunk.js",
+    "main.js.map": "/stripepayment/static/js/main.814a4253.chunk.js.map",
+    "runtime-main.js": "/stripepayment/static/js/runtime-main.486fb897.js",
+    "runtime-main.js.map": "/stripepayment/static/js/runtime-main.486fb897.js.map",
+    "static/js/2.9aaf1cce.chunk.js": "/stripepayment/static/js/2.9aaf1cce.chunk.js",
+    "static/js/2.9aaf1cce.chunk.js.map": "/stripepayment/static/js/2.9aaf1cce.chunk.js.map",
+    "index.html": "/stripepayment/index.html",
+    "precache-manifest.10900c416f6efa53e0ae138e32a2c4b8.js": "/stripepayment/precache-manifest.10900c416f6efa53e0ae138e32a2c4b8.js",
+    "service-worker.js": "/stripepayment/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/stripepayment/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9aaf1cce.chunk.js.LICENSE.txt": "/stripepayment/static/js/2.9aaf1cce.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/stripepayment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.486fb897.js",
+    "static/js/2.9aaf1cce.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.814a4253.chunk.js"
+  ]
+}
